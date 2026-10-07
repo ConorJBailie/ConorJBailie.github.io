@@ -14,3 +14,5 @@ summer extension for 2nd year: https://github.falmouth.ac.uk/CB275324/COMP213-re
 COMP290 project: https://github.falmouth.ac.uk/CB275324/comp290-cb275324-wk.git
 
 Micro-mouse code: https://github.falmouth.ac.uk/CB275324/COMP207-project.git
+
+1st year motion sensor project: https://github.falmouth.ac.uk/CB275324/COMP102-Project-CB275324
