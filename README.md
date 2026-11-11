@@ -8,6 +8,9 @@ Email: conorbailie@btinternet.com
 
 Status: final year of university
 
+# Abstract:
+I love machines and robots; the way they move to the way they talk, to their sizes and shapes. Having grown up with TV shows, films and video games like Transformers, The Iron Giant and Metal Gear. I was mesmerized by the way the gears shifted and parts moved and decoupled to reveal hidden attributes or even when standing still. Studying Mathematics and Physics A-level certainly reinforced that passion. Researching courses which can teach me and develop my skills on how to build and make these machines and put them to a practical and helpful use, has made me ecstatic. Having studied Physics and Mathematics at A-level I have begun to develop the skills and knowledge which will act as a foundation for mechanical engineering and the career pathway which follows.
+
 # FORMAL EDUCATION:
 
 Completed a MOOC on Mechanical Engineering at Belfast Community College
