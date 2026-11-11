@@ -1,6 +1,6 @@
 # NAME: Conor James Bailie
 
-<img width="1234" height="1196" alt="face" src="https://github.com/user-attachments/assets/e752419a-766d-4421-82de-0168fbdb0eed" />
+<img width="420" height="407" alt="face2" src="https://github.com/user-attachments/assets/761522a5-8a16-49ad-908d-ac060503d326" />
 
 
 Sex: M
