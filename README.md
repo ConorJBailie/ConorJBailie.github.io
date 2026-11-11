@@ -1,4 +1,8 @@
 # NAME: Conor James Bailie
+
+<img width="1234" height="1196" alt="face" src="https://github.com/user-attachments/assets/e752419a-766d-4421-82de-0168fbdb0eed" />
+
+
 Sex: M
 DOB: 29/10/2003
 
@@ -19,20 +23,32 @@ I have completed a virtual work experience course on engineering on Springpod.
 
 A-levels: 
 Physics - A
+
 Mathmatics - B
+
 Chemistry - B
 
 GCSE:
 Mathmatics - A*
+
 Further Mathmatics - B
+
 Physics - A*
+
 Chemistry - A
+
 Biology - A
+
 Geography - B
+
 English Literature - A
+
 English Language- B
+
 Religious studies - A
+
 Digital Technology - A
+
 French - C
 
 # PROJECTS:
