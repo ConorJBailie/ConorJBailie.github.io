@@ -1,7 +1,9 @@
 # NAME: Conor James Bailie
 
-<img width="420" height="407" alt="face2" src="https://github.com/user-attachments/assets/761522a5-8a16-49ad-908d-ac060503d326" />
+<img width="546" height="405" alt="HRUNTINGYGGDRASIL MK1" src="https://github.com/user-attachments/assets/981594c8-4b2f-4103-a624-00b00ce0d1ae" />
 
+
+(I'd rather not show my face until this is complete, but here's my usual profile picture)
 
 Sex: M
 DOB: 29/10/2003
