@@ -1,7 +1,34 @@
 # NAME: Conor James Bailie
+Sex: M
+DOB: 29/10/2003
+
 Profession: robotics engineer
 
+Email: conorbailie@btinternet.com
+
 Status: final year of university
+
+# FORMAL EDUCATION:
+
+Passed a 1 year Mechanical Engineering Course at Belfast Community College
+
+A-levels: 
+Physics - A
+Mathmatics - B
+Chemistry - B
+
+GCSE:
+Mathmatics - A*
+Further Mathmatics - B
+Physics - A*
+Chemistry - A
+Biology - A
+Geography - B
+English Literature - A
+English Language- B
+Religious studies - A
+Digital Technology - A
+French - C
 
 # PROJECTS:
 
