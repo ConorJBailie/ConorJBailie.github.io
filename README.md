@@ -10,7 +10,9 @@ Status: final year of university
 
 # FORMAL EDUCATION:
 
-Passed a 1 year Mechanical Engineering Course at Belfast Community College
+Completed a MOOC on Mechanical Engineering at Belfast Community College
+
+I have completed a virtual work experience course on engineering on Springpod.
 
 A-levels: 
 Physics - A
